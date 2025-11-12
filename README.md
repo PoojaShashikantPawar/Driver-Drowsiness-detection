@@ -50,20 +50,7 @@ Press the 'q' key to quit the program.
 Team Members
 Team members who worked on the project.
 
-Mustafa Mansur Masuldar
-Developer
 
-Nouman Anwar Chitapure
-Documentation
-
-Harshvardhan Arvind Konda
-Debugger
-
-MD Arafat Arif Nadaf
-Tester
-
-Project Screenshots
-a d b
 
 
 
